@@ -3,11 +3,11 @@
 ## Overview
 PyBer Ride-sharing has requested an analysis of their 2019 ride-sharing data. This analysis requires:
 - A summary DataFrame that includes
--   total rides,
--   total drivers,
--   total fares,
--   average fares and drivers by city types
-- Graphs to visualize the DataFrame
+  - total rides,
+  - total drivers,
+  - total fares,
+  - average fares and drivers by city types
+- Graphs to visualize the data
 - A report that provides recommendations to the CEO on how the data might assist in decision-making.
 
 ## Resources
