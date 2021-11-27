@@ -26,7 +26,7 @@ However, as the table below suggests, driver supply in urban cities exceeds curr
 
 <img src ="analysis/pyber_data_summary_table.png" width="60%" height="40%">
 
-As we look at distribution of drivers, rides and fares by city types in a simple pie chart below, it is clear that ride and fare distributions for urban areas are well below driver distribution.
+A comparison of distribution of drivers, rides and fares by city types in simple pie charts below shows urban driver distribution does not reflect similar distributions in fares and rides. Urban drivers are 80% of the driver distribution but only make up 65% of the rides and 
 
 <img src = "analysis/Fig7.png" width="27%" height="30%">   <img src = "analysis/Fig5.png" width="25%" height="20%">   <img src = "analysis/Fig6.png" width="25%" height="20%">
 
