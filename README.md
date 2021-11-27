@@ -28,7 +28,7 @@ However, as the table below suggests, driver supply in urban cities exceeds curr
 
 As we look at distribution of drivers, rides and fares by city types in a simple pie chart below, it is clear that ride and fare distributions for urban areas are well below driver distribution.
 
-<img src = "analysis/Fig7.png" width="20%" height="20%"><img src = "analysis/Fig5.png" width="20%" height="20%"><img src = "analysis/Fig6.png" width="20%" height="20%">
+<img src = "analysis/Fig7.png" width="30%" height="30%"> <img src = "analysis/Fig5.png" width="20%" height="20%"> <img src = "analysis/Fig6.png" width="20%" height="20%">
 
 Describe differences in ride-sharing data including total rides, fares and drivers. Avg fare per ride and driver, and total fare by city type.
 
