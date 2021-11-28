@@ -32,7 +32,7 @@ Comparing distribution of drivers, rides and fares by city types in simple pie c
 
 <img src = "analysis/Fig7.png" width="25%" height="25%">   <img src = "analysis/Fig5.png" width="25%" height="30%">   <img src = "analysis/Fig6.png" width="25%" height="30%">
 
-Average fare per ride for rural cities is just under $35 per ride, while suburban fare per ride is almost $31 per ride. However, urban average fare per ride is under $25. Average fare per driver for rural drivers is over $55 per driver and for suburban cities $39.50; but urban fare per driver is less than $17 per driver. These averages suggest a supply and demand issue; urban areas have more drivers available than rides. Urban cities have over 2400 drivers available, but delivered only 1625 rides in the first five months of 2019. Rural cities make up very few of the overall rides provided but are able to charge more per ride because driver competition is lower, which suggest the drivers are appropriate for the demand. The same is true for suburban cities, where the drivers make up 78% of rides. 
+Average fare per ride for rural cities is just under $35 per ride, while suburban fare per ride is almost $31 per ride. However, urban average fare per ride is under $25. Average fare per driver for rural drivers is over $55 per driver and for suburban cities $39.50; but urban fare per driver is less than $17 per driver. These averages suggest a supply and demand issue; urban areas have more drivers available than rides. Urban cities have over 2400 drivers available, but delivered only 1625 rides in the first five months of 2019. Rural cities make up very few of the overall rides provided but are able to charge more per ride because driver competition is lower, which suggest the driver levels are appropriate for ride demand. The same is true for suburban cities, where the drivers make up 78% of rides. Higher ride-share demand in rural and urban cities, with fewer drivers available, keeps the average fare per ride above $30 per ride.
 
 ### Box-and-whisker Charts Average Fare per Ride and per Driver
 
@@ -40,12 +40,21 @@ Average fare per ride for rural cities is just under $35 per ride, while suburba
 
 <img src ="analysis/Fig3.png" width="50%" height="40%">
 
+Weekly fare levels by city type show similar trends across the first four months of 2019, peaking in the last week of February. The graph below is based on fare totals by week. The weekly graph shows demand increases as spring arrives, but no real trend in events or weekend activity that might impact demand. However, the data is limited to the first quarter of the year, and does not representative of an entire year.
+
 ### Weekly Fare Revenue by City Type
 
 <img src = "analysis/pyber_challenge.png" width="60%" height="40%">
 
-
-Describe differences in ride-sharing data including total rides, fares and drivers. Avg fare per ride and driver, and total fare by city type.
-
 ## Summary
-Statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+
+Although urban cities do generate the highest revenue based on the number of rides provided, there may be some solutions to consider to improve gross revenue. For example, the data provided for this analysis indicates only the day the ride was recorded, and the total fare. None of the data indicates the length of the ride in distance or time, which may impact the fare per ride rate. It might also explain the reason for higher fares per ride and driver in rural and suburban cities, where the ride distance may be much longer or farther than it would be in an urban city.
+
+The data suggests PyBer examine:
+- Staffing in all areas, but specifically in urban areas, where drivers exceed ride demand
+    - Although drivers are paid only on the rides they take, it still drives the fare per ride down by having too much competition.
+- Collecting start and stop times for the rides, which may provide further insight into the disparity in fares per ride and driver
+- Look at competitor's and how they manage fares
+    - for example, Uber utilizes dynamic rates so that when demand is high, rates increase, but return to normal when demand does
+- Market PyBer in urban cities to drive up demand
+
