@@ -18,7 +18,7 @@ PyBer Ride-Share serves 120 cities, 55% of which are urban, while 30% are suburb
 
 ### Scatterplot Describing Rides by City Type
 
-<img src ="analysis/Fig1.png" width="50%" height="30%">
+<img src ="analysis/Fig1.png" width="500" height="500">
 
 However, as the table below suggests, driver supply in urban cities exceeds current demand for rides in these cities.
 
@@ -30,10 +30,10 @@ Comparing distribution of drivers, rides and fares by city types in simple pie c
 
 ### Pie Charts Comparing Drivers, Fare and Ride Distribution
 
-<img src = "analysis/Fig7.png" width="27%" height="30%">     <img src = "analysis/Fig5.png" width="25%" height="20%">     <img src = "analysis/Fig6.png" width="25%" height="20%">
+<img src = "analysis/Fig7.png" width="300" height="300">     <img src = "analysis/Fig5.png" width="300" height="300">     <img src = "analysis/Fig6.png" width="300" height="300">
 
 
-<img src ="analysis/Fig3.png" width="40%" height="30%">
+<img src ="analysis/Fig3.png" width="800" height="500">
 Describe differences in ride-sharing data including total rides, fares and drivers. Avg fare per ride and driver, and total fare by city type.
 
 ## Summary
