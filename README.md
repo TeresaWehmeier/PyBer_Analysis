@@ -30,12 +30,21 @@ Comparing distribution of drivers, rides and fares by city types in simple pie c
 
 ### Pie Charts Comparing Drivers, Fare and Ride Distribution
 
-<img src = "analysis/Fig7.png" width="25%" height="25%">
-<img src = "analysis/Fig5.png" width="25%" height="30%">
-<img src = "analysis/Fig6.png" width="25%" height="30%">
+<img src = "analysis/Fig7.png" width="25%" height="25%">   <img src = "analysis/Fig5.png" width="25%" height="30%">   <img src = "analysis/Fig6.png" width="25%" height="30%">
 
+Average fare per ride for rural cities is just under $35 per ride, while suburban fare per ride is almost $31 per ride. However, urban average fare per ride is under $25. Average fare per driver for rural drivers is over $55 per driver and for suburban cities $39.50; but urban fare per driver is less than $17 per driver. These averages suggest a supply and demand issue; urban areas have more drivers available than rides. Urban cities have over 2400 drivers available, but delivered only 1625 rides in the first five months of 2019. Rural cities make up very few of the overall rides provided but are able to charge more per ride because driver competition is lower, which suggest the drivers are appropriate for the demand. The same is true for suburban cities, where the drivers make up 78% of rides. 
+
+### Box-and-whisker Charts Average Fare per Ride and per Driver
 
 <img src ="analysis/Fig3.png" width="50%" height="40%">
+
+<img src ="analysis/Fig3.png" width="50%" height="40%">
+
+### Weekly Fare Revenue by City Type
+
+<img src = "analysis/pyber_challenge.png" width="60%" height="40%">
+
+
 Describe differences in ride-sharing data including total rides, fares and drivers. Avg fare per ride and driver, and total fare by city type.
 
 ## Summary
