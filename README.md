@@ -18,7 +18,7 @@ PyBer Ride-Share serves 120 cities, 55% of which are urban, while 30% are suburb
 
 ### Scatterplot Describing Rides by City Type
 
-<img src ="analysis/Fig1.png" width="500" height="500">
+<img src ="analysis/Fig1.png" width="900" height="500">
 
 However, as the table below suggests, driver supply in urban cities exceeds current demand for rides in these cities.
 
