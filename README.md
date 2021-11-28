@@ -47,11 +47,11 @@ Comparing distribution of drivers, rides and fares by city types in simple pie c
 
 <img src ="analysis/Fig4.png" width="50%" height="40%">
 
-Weekly fare levels by city type show similar trends across the first four months of 2019, peaking in the last week of February. The graph below is based on fare totals by week. The weekly graph shows demand increases as spring arrives, but no real trend in events or weekend activity that might impact demand. However, the data is limited to the first quarter of the year, and does not representative of an entire year.
+Weekly fare levels by city type show similar trends across the first four months of 2019, peaking in the last week of February. The graph below is based on fare totals by week. The weekly graph shows demand increases as spring arrives, but no real trend in events or weekend activity that might impact demand. However, the data is limited to the first quarter of the year, and is not representative of an entire year.
 
 ### Weekly Fare Revenue by City Type
 
-<img src = "analysis/pyber_challenge.png" width="60%" height="40%">
+<img src = "analysis/pyber_challenge.png" width="70%" height="50%">
 
 ## Summary
 
