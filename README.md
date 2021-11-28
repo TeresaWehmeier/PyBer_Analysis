@@ -30,7 +30,7 @@ Comparing distribution of drivers, rides and fares by city types in simple pie c
 
 ### Pie Charts Comparing Drivers, Fare and Ride Distribution
 
-<img src = "analysis/Fig7.png" width="30%" height="30%">     <img src = "analysis/Fig5.png" width="25%" height="30%">     <img src = "analysis/Fig6.png" width="25%" height="30%">
+<img src = "analysis/Fig7.png" width="30%" height="27%">     <img src = "analysis/Fig5.png" width="25%" height="30%">     <img src = "analysis/Fig6.png" width="25%" height="30%">
 
 
 <img src ="analysis/Fig3.png" width="50%" height="40%">
