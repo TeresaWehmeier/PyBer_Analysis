@@ -32,6 +32,8 @@ Comparing distribution of drivers, rides and fares by city types in simple pie c
 
 <img src = "analysis/Fig7.png" width="27%" height="30%">     <img src = "analysis/Fig5.png" width="25%" height="20%">     <img src = "analysis/Fig6.png" width="25%" height="20%">
 
+
+<img src ="analysis/Fig3.png" width="40%" height="30%">
 Describe differences in ride-sharing data including total rides, fares and drivers. Avg fare per ride and driver, and total fare by city type.
 
 ## Summary
