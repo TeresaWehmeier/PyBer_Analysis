@@ -32,7 +32,14 @@ Comparing distribution of drivers, rides and fares by city types in simple pie c
 
 <img src = "analysis/Fig7.png" width="25%" height="25%">   <img src = "analysis/Fig5.png" width="25%" height="30%">   <img src = "analysis/Fig6.png" width="25%" height="30%">
 
-Average fare per ride for rural cities is just under $35 per ride, while suburban fare per ride is almost $31 per ride. However, urban average fare per ride is under $25. Average fare per driver for rural drivers is over $55 per driver and for suburban cities $39.50; but urban fare per driver is less than $17 per driver. These averages suggest a supply and demand issue; urban areas have more drivers available than rides. Urban cities have over 2400 drivers available, but delivered only 1625 rides in the first five months of 2019. Rural cities make up very few of the overall rides provided but are able to charge more per ride because driver competition is lower, which suggest the driver levels are appropriate for ride demand. The same is true for suburban cities, where the drivers make up 78% of rides. Higher ride-share demand in rural and urban cities, with fewer drivers available, keeps the average fare per ride above $30 per ride.
+- Average fare per ride for rural cities is just under $35 per ride,
+- Average fare per ride for suburban cities is almost $31 per ride,
+- Average fare per ride for urban cities is under $25,
+- Average fare per driver for rural drivers is over $55 per driver,
+- Average fare per driver for suburban cities $39.50,
+- Average fare per driver for urban cities is less than $17 per driver.
+- 
+- These averages suggest a supply and demand issue; urban areas have more drivers available than rides. Urban cities have over 2400 drivers available, but delivered only 1625 rides in the first five months of 2019. Rural cities make up very few of the overall rides provided but are able to charge more per ride because driver competition is lower, which suggest the driver levels are appropriate for ride demand. The same is true for suburban cities, where the drivers make up 78% of rides. Higher ride-share demand in rural and urban cities, with fewer drivers available, keeps the average fare per ride above $30 per ride.
 
 ### Box-and-whisker Charts Average Fare per Ride and per Driver
 
